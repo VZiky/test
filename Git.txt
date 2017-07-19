@@ -1,0 +1,17 @@
+管理库
+git init
+
+添加本地暂存
+git add !FileName!
+
+查看状态
+git status
+
+git status -s -s是输出简要变更日志
+
+提交库
+git commit -m !描述!
+
+git remote add origin git@github.com/Vziky/test
+
+git push -u origin master
